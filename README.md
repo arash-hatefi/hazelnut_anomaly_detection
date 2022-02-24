@@ -1,4 +1,4 @@
-# Anomaly Detection in Hazelnuts using Autoencoder with Convolutional  Layers
+# Anomaly Detection in Hazelnuts using Autoencoder Network with Convolutional  Layers
 Project for the Deep Learning with Applications Graduate Course, University of Tehran. (Finish date: 18-04-2020)
 
 ## Dataset
